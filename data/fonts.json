@@ -1,0 +1,74 @@
+{
+  "fonts": {
+    "persian": [
+      {
+        "name": "همت",
+        "url": "/fonts/persian/AHemmat.ttf"
+      },
+      {
+        "name": "بالالین",
+        "url": "/fonts/persian/Balaleen-Line.otf"
+      },
+      {
+        "name": "بامداد",
+        "url": "/fonts/persian/Bamdad.ttf"
+      },
+      {
+        "name": "اوشن",
+        "url": "/fonts/persian/BlueOcean.ttf"
+      },
+      {
+        "name": "استعداد",
+        "url": "/fonts/persian/Estedad.ttf"
+      },
+      {
+        "name": "کازابلانکا",
+        "url": "/fonts/persian/Far_Casablanca.ttf"
+      },
+      {
+        "name": "خودکار",
+        "url": "/fonts/persian/Far_khodkar.ttf"
+      },
+      {
+        "name": "فدرا",
+        "url": "/fonts/persian/fedra.ttf"
+      },
+      {
+        "name": "گرافیک",
+        "url": "/fonts/persian/Graphik.otf"
+      },
+      {
+        "name": "مثلث",
+        "url": "/fonts/persian/Mosalas.ttf"
+      },
+      {
+        "name": "نوژا",
+        "url": "/fonts/persian/Nozha.ttf"
+      },
+      {
+        "name": "اردیبهشت",
+        "url": "/fonts/persian/Ordibehesht.TTF"
+      },
+      {
+        "name": "ساحل",
+        "url": "/fonts/persian/Sahel.ttf"
+      },
+      {
+        "name": "صمیم",
+        "url": "/fonts/persian/Samim.ttf"
+      },
+      {
+        "name": "شبنم",
+        "url": "/fonts/persian/Shabnam.ttf"
+      },
+      {
+        "name": "وزیر",
+        "url": "/fonts/persian/Vazir.ttf"
+      },
+      {
+        "name": "یکان بوم",
+        "url": "/fonts/persian/Yekan_Boom.ttf"
+      }
+    ]
+  }
+}
