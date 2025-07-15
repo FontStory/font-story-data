@@ -1,0 +1,14 @@
+{
+    "name": "Barbie",
+    "thumbnailAssetPath": "/thumbnail.png",
+    "defaultTextColor": "#EA388B",
+    "isColorMutable": false,
+    "textLayers": [
+      { "style": { "foreground": { "style": "stroke", "strokeWidth": 8, "strokeJoin": "round", "color": "#5D2A66" } }, "offset": { "bottom": 4, "left": -4 } },
+      { "style": { "foreground": { "style": "stroke", "strokeWidth": 8, "strokeJoin": "round", "color": "#E93C72" } }, "offset": { "bottom": 2.5, "left": -2.5 } },
+      { "style": { "foreground": { "style": "stroke", "strokeWidth": 8, "strokeJoin": "round", "color": "#0E6389" } }, "offset": { "bottom": 1.5, "left": -1.5 } },
+      { "style": { "foreground": { "style": "stroke", "strokeWidth": 8, "strokeJoin": "round", "color": "#31B5C4" } }, "offset": { "bottom": 0, "left": 0 } },
+      { "style": { "foreground": { "style": "stroke", "strokeWidth": 4, "strokeJoin": "round", "color": "#F4DF82" } }, "offset": { "bottom": 0, "left": 0 } },
+      { "style": { "foreground": { "style": "stroke", "strokeWidth": 1, "strokeJoin": "round", "color": "#701D3B" } }, "offset": { "bottom": 0.5, "left": -0.5 } }
+    ]
+}
