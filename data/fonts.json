@@ -2,22 +2,6 @@
   "fonts": {
     "persian": [
       {
-        "name": "همت",
-        "url": "/fonts/persian/AHemmat.ttf"
-      },
-      {
-        "name": "بالالین",
-        "url": "/fonts/persian/Balaleen-Line.otf"
-      },
-      {
-        "name": "بامداد",
-        "url": "/fonts/persian/Bamdad.ttf"
-      },
-      {
-        "name": "اوشن",
-        "url": "/fonts/persian/BlueOcean.ttf"
-      },
-      {
         "name": "استعداد",
         "url": "/fonts/persian/Estedad.ttf"
       },
@@ -31,11 +15,39 @@
       },
       {
         "name": "فدرا",
-        "url": "/fonts/persian/fedra.ttf"
+        "url": "/fonts/persian/Fedra.ttf"
       },
       {
         "name": "گرافیک",
         "url": "/fonts/persian/Graphik.otf"
+      },
+      {
+        "name": "همت",
+        "url": "/fonts/persian/AHemmat.ttf"
+      },
+      {
+        "name": "آوینی",
+        "url": "/fonts/persian/Aviny.ttf"
+      },
+      {
+        "name": "بامداد",
+        "url": "/fonts/persian/Bamdad.ttf"
+      },
+      {
+        "name": "فرهنگ",
+        "url": "/fonts/persian/Farhang.ttf"
+      },
+      {
+        "name": "جوان",
+        "url": "/fonts/persian/Javan.ttf"
+      },
+      {
+        "name": "کتیبه",
+        "url": "/fonts/persian/Katibeh.ttf"
+      },
+      {
+        "name": "مربع",
+        "url": "/fonts/persian/Moraba.ttf"
       },
       {
         "name": "مثلث",
@@ -47,7 +59,7 @@
       },
       {
         "name": "اردیبهشت",
-        "url": "/fonts/persian/Ordibehesht.TTF"
+        "url": "/fonts/persian/Ordibehesht.ttf"
       },
       {
         "name": "ساحل",
@@ -68,6 +80,68 @@
       {
         "name": "یکان بوم",
         "url": "/fonts/persian/Yekan_Boom.ttf"
+      }
+    ],
+    "english": [
+      {
+        "name": "Candara",
+        "url": "/fonts/english/Candara.ttf"
+      },
+      {
+        "name": "Candy",
+        "url": "/fonts/english/Candy_Script.ttf"
+      },
+      {
+        "name": "CODE",
+        "url": "/fonts/english/CODE.otf"
+      },
+      {
+        "name": "Comic",
+        "url": "/fonts/english/comic.ttf"
+      },
+      {
+        "name": "Consola",
+        "url": "/fonts/english/consolab.ttf"
+      },
+      {
+        "name": "Cour",
+        "url": "/fonts/english/courbd.ttf"
+      },
+      {
+        "name": "Downtempo",
+        "url": "/fonts/english/Downtempo.ttf"
+      },
+      {
+        "name": "Dubai",
+        "url": "/fonts/english/dubai.TTF"
+      },
+      {
+        "name": "Felipe",
+        "url": "/fonts/english/Felipe.ttf"
+      },
+      {
+        "name": "Flix",
+        "url": "/fonts/english/Flix.ttf"
+      },
+      {
+        "name": "Forte",
+        "url": "/fonts/english/FORTE.TTF"
+      },
+      {
+        "name": "Gothic",
+        "url": "/fonts/english/GOTHICB.TTF"
+      },
+      {
+        "name": "Grover",
+        "url": "/fonts/english/Grover.ttf"
+      },
+      {
+        "name": "Gta",
+        "url": "/fonts/english/Gta.ttf"
+      },
+      {
+        "name": "Trebuc",
+        "url": "/fonts/english/trebucbd.ttf"
       }
     ]
   }
