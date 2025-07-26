@@ -23,7 +23,7 @@
       },
       {
         "name": "خودکار",
-        "url": "/fonts/persian/far_khodkar.ttf"
+        "url": "/fonts/persian/Far_khodkar.ttf"
       },
       {
         "name": "گرافیک",
@@ -112,10 +112,6 @@
         "url": "/fonts/english/LeckerliOne.ttf"
       },
       {
-        "name": "Modak",
-        "url": "/fonts/english/Modak.ttf"
-      },
-      {
         "name": "Monoton",
         "url": "/fonts/english/Monoton.ttf"
       },
@@ -124,8 +120,8 @@
         "url": "/fonts/english/RacingSansOne.ttf"
       },
       {
-        "name": "Shrinkhand",
-        "url": "/fonts/english/Shrinkhand.ttf"
+        "name": "Shrikhand",
+        "url": "/fonts/english/Shrikhand.ttf"
       },
       {
         "name": "WinkyRough",
